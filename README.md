@@ -1,8 +1,8 @@
  # *Morganella* spp visualization
 
-**Visualization of the average spectra Matrix-Assisted Laser Desorption Ionization-Time Of Flight Mass Spectrometry (MALDI-TOF MS) of the strains of  <i>Morganella</i> spp. using MALDIquant [1], MALDIrppa [2] and plotly [3] R packages is available [3] R packages is available [here](https://agodmer.github.io/Morganella/Visualisation_Morga_spectra).**
+**Visualization of the average spectra Matrix-Assisted Laser Desorption Ionization-Time Of Flight Mass Spectrometry (MALDI-TOF MS) of the strains of  <i>Morganella</i> spp. using MALDIquant [1], MALDIrppa [2] and plotly [3] R packages is available [3] R packages is available [here](https://agodmer.github.io/Morganella/morga_visualtool).**
 
-[Vizualisation tool](https://agodmer.github.io/Morganella/Visualisation_Morga_spectra)
+**Please follow this link to the vizualisation tool:** [vizualisation tool for *Morganella*](https://agodmer.github.io/Morganella/morga_visualtool)
 
 For information concerning this visualization : A. godmer alexandre.godmer@aphp.fr
 
@@ -43,5 +43,4 @@ Mathilde DUQUE1, Cécile EMERAUD<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup>
 
 [2] Javier Palarea-Albaladejo, Kevin Mclean, Frank Wright, David G E Smith, MALDIrppa: quality control and robust analysis for mass spectrometry data, Bioinformatics, Volume 34, Issue 3, 01 February 2018, Pages 522 - 523, doi : https://doi.org/10.1093/bioinformatics/btx628
 
-[3] Sievert C (2020). Interactive Web-Based Data Visualization with R, plotly, and shiny. Chapman and Hall/CRC.# MABSc
-# Morganella
+[3] Sievert C (2020). Interactive Web-Based Data Visualization with R, plotly, and shiny. Chapman and Hall/CRC.
