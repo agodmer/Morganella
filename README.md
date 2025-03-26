@@ -7,7 +7,7 @@
 
 For information concerning this visualization : A. godmer alexandre.godmer@aphp.fr
 
-This work was performed for article (**in submission in Journal of Mass Spectrometry & Advances in the Clinical Lab (JMSACL)**) : **Enhanced identification of *Morganella* spp. using MALDI-TOF mass spectrometry**
+This work was performed for article (**in submission in Journal of Mass Spectrometry & Advances in the Clinical Lab (JMSACL)**) : **"Enhanced identification of *Morganella* spp. using MALDI-TOF mass spectrometry"**
 
 Mathilde DUQUE1, Cécile EMERAUD<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup>, Rémy A BONNIN<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup>, Quentin GIAI-GIANETTO<sup>4</sup><sup>,</sup><sup>5</sup> Laurent DORTET<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup>, Alexandre GODMER<sup>6</sup><sup>,</sup><sup>7</sup>
 
