@@ -9,7 +9,7 @@ For information concerning this visualization : A. godmer alexandre.godmer@aphp.
 
 This work was performed for article (**in submission in Journal of Mass Spectrometry & Advances in the Clinical Lab (JMSACL)**) : **"Enhanced identification of *Morganella* spp. using MALDI-TOF mass spectrometry"**
 
-Mathilde DUQUE1, Cécile EMERAUD<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup>, Rémy A BONNIN<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup>, Quentin GIAI-GIANETTO<sup>4</sup><sup>,</sup><sup>5</sup> Laurent DORTET<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup>, Alexandre GODMER<sup>6</sup><sup>,</sup><sup>7</sup>
+Mathilde DUQUE<sup>1</sup>, Cécile EMERAUD<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup>, Rémy A BONNIN<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup>, Quentin GIAI-GIANETTO<sup>4</sup><sup>,</sup><sup>5</sup> Laurent DORTET<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup>, Alexandre GODMER<sup>6</sup><sup>,</sup><sup>7</sup>
 
 <sup>1</sup> Team "Resist" UMR1184 "Immunology of Viral, Auto-Immune, Hematological and Bacterial diseases (IMVA-HB)," INSERM, Université Paris-Saclay, CEA, LabEx LERMIT, Faculty of Medicine, Le Kremlin-Bicêtre, France.
 
